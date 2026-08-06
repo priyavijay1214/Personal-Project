@@ -29,7 +29,7 @@ def main():
     # 5) Model
     model_df = build_model_table(df, overspend_threshold=1200.0)
     clf, metrics, coef = train_overspend_model(model_df)
-
+    
     # 6) Plots + report
     p1 = plot_monthly_total(df)
     p2 = plot_category_breakdown(df)
