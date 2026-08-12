@@ -1,5 +1,3 @@
-# Personal-Project
-
 # Student Spending Analyzer (Python + Pandas)
 
 A data analytics project that cleans transaction data, produces monthly/category insights, and predicts whether a month is likely to be an **overspending month** using a simple Logistic Regression model.
