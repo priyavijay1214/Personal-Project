@@ -9,7 +9,7 @@ A data analytics project that cleans transaction data, produces monthly/category
 - Builds month-level features (category spend, transaction behavior)
 - Trains a baseline model to flag overspending months
 
-## Tech stack
+## Tech Stack
 Python, pandas, matplotlib, scikit-learn
 
 ## Quickstart
